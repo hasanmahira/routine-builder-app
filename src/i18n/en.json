@@ -1,0 +1,33 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password"
+  },
+  "routines": {
+    "createRoutine": "Create Routine",
+    "routineName": "Routine Name",
+    "addTask": "Add Task",
+    "taskDescription": "Task Description",
+    "frequency": "Frequency",
+    "startDate": "Start Date",
+    "progress": "Progress",
+    "streak": "Streak"
+  },
+  "settings": {
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "language": "Language"
+  },
+  "social": {
+    "share": "Share",
+    "welcome": "Welcome"
+  }
+}

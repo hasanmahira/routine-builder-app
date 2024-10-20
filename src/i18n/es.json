@@ -1,0 +1,33 @@
+{
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar"
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signUp": "Registrarse",
+    "email": "Correo Electrónico",
+    "password": "Contraseña"
+  },
+  "routines": {
+    "createRoutine": "Crear Rutina",
+    "routineName": "Nombre de la Rutina",
+    "addTask": "Agregar Tarea",
+    "taskDescription": "Descripción de la Tarea",
+    "frequency": "Frecuencia",
+    "startDate": "Fecha de Inicio",
+    "progress": "Progreso",
+    "streak": "Racha"
+  },
+  "settings": {
+    "theme": "Tema",
+    "notifications": "Notificaciones",
+    "language": "Idioma"
+  },
+  "social": {
+    "share": "Compartir",
+    "welcome": "Bienvenido"
+  }
+}
